@@ -1,18 +1,18 @@
 {
-  "name": "starter-ts",
+  "name": "obnoxious-log",
   "type": "module",
-  "version": "0.0.0",
+  "version": "0.0.420",
   "packageManager": "pnpm@9.0.6",
-  "description": "",
+  "description": "Meme package - https://youtu.be/7vSb1CtCad0?t=303",
   "author": "NamesMT <dangquoctrung123@gmail.com>",
   "license": "MIT",
   "funding": "https://github.com/sponsors/namesmt",
-  "homepage": "https://github.com/namesmt/starter-ts#readme",
+  "homepage": "https://github.com/namesmt/obnoxious-log#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/namesmt/starter-ts.git"
+    "url": "git+https://github.com/namesmt/obnoxious-log.git"
   },
-  "bugs": "https://github.com/namesmt/starter-ts/issues",
+  "bugs": "https://github.com/namesmt/obnoxious-log/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
