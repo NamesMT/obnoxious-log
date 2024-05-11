@@ -3,7 +3,7 @@ function playBeep() {
   if (typeof Audio !== 'undefined') {
     if (!beepCache) {
       beepCache = new Audio(`data:audio/wav;base64,UklGRl9vT19XQVZFZm10IBAAAAABAAEAQB8AAEAfAAABAAgAZGF0YU${Array(1e3).join('123')}`)
-      beepCache.volume = 10
+      beepCache.volume = 0.1
     }
 
     beepCache.play()
