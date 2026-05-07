@@ -2,7 +2,7 @@
   "name": "obnoxious-log",
   "type": "module",
   "version": "0.69.420",
-  "packageManager": "pnpm@9.0.6",
+  "packageManager": "pnpm@10.33.4",
   "description": "Meme package - https://youtu.be/7vSb1CtCad0?t=303",
   "author": "NamesMT <dangquoctrung123@gmail.com>",
   "license": "MIT",
