@@ -9,6 +9,6 @@
     "nodemon": "^3.1.0",
     "obnoxious-log": "workspace:^",
     "vite": "^5.2.11",
-    "vite-plugin-inspect": "^0.8.4"
+    "vite-plugin-inspect": "^11.4.1"
   }
 }
